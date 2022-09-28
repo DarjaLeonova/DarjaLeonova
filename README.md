@@ -4,15 +4,22 @@
 
 I’m software engineer with focus on full-stuck development.
 
+I'm coding about a year, I started with little bit of everything. 
+After my little journey around programming languages I decided to learn more about C#. <b> Below you can check more about my skills <b/> 👇
+
 Why I started programming? Well.. 😄
 
 Hew years ago in woods, I found my best friend and my motivation for my entire life - Stormy 🐾
+<br>
 Together we are learning new skills and going threw all dificulties. 🥰
+<br>
 For example.. she's learning how to spin and I'm learning how to be better in coding 😁
 
 But there is one thing which makes me happy and keeps me positive
+<br>
 I really love.. 
-Watch anime and especially draw it, so if you struggle about what to watch tonighy 
+<br>
+Watch anime and especially draw it, so if you struggle about what to watch tonight
 
 ### 🧐 I Suggest:
 
@@ -21,14 +28,22 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 - 🐰 Rascal Does Not Dream Of Bunny Girl Senpai
 <br/>
 
-
 <img align="right" alt="GIF" src="http://pa1.narvii.com/6410/3698e96a51807334ae816bf1bd195221a17711e2_00.gif" width="360px"/>
+
+### 💪 More About My Skills:
+
+- 👋 &nbsp; Back-end development: C#, .NET Framework, ASP .NET, REST 
+- 🤚 &nbsp; Front-end development: JavaScript, HTML5, CSS, ReactJs, Angular, jQuery
+- 🖖 &nbsp; Test Tools: MSTest, Postman 
+- 🤙 &nbsp; Database tools: MySQL, SQLite
+- 🤞 &nbsp; Version Control: Git
+- 🤙 &nbsp; Methodologies: Agile, Scrum
+<br>  
   
 ### 🧐 More About Me:
 
-- 👾 &nbsp; I'm a big fan of Resident Evil world
 - 🔭 &nbsp; I’m currently working on improving myself
-- 🌱 &nbsp; I’m currently learning C#; 
+- 🌱 &nbsp; I’m currently learning C#
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DarjaLeonova?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/darja-leonova-321927227/)
 - 📚 &nbsp; When I am free, I read books about psychology and romans
@@ -37,18 +52,12 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 ### 🔨 Languages and Tools:
 
 <a href="https://learn.microsoft.com/de-de/windows/images/csharp-logo.png" target="_blank"><img align="left" alt="C#" height ="42px" src="https://learn.microsoft.com/de-de/windows/images/csharp-logo.png"></a>
-
 <a href="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a>
-
 <a href="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-
-
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-
 <br>
-
 <br>
 
 ### 📊 Github Stats
