@@ -38,24 +38,17 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+
+![Stats Overview](https://github.com/DarjaLeonova/github-stats-transparent/blob/output/generated/overview.svg)
 ![Most Used Languages](https://github.com/DarjaLeonova/github-stats-transparent/blob/output/generated/languages.svg)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarjaLeonova&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
-</a>
-
 <br>
-
+<!--
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/DarjaLeonova/FlightPlanner-WebApp" target="_blank"> <img alt="artistify" src="https://icon2.cleanpng.com/20180227/hrq/kisspng-material-pattern-global-flight-5a9626a48aa3a3.2338814515197897325679.jpg" height="68" align="left"> </a>
+-->
