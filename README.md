@@ -26,7 +26,7 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="http://pa1.narvii.com/6410/3698e96a51807334ae816bf1bd195221a17711e2_00.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
