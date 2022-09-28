@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Daria Leonova!
 <a href='https://www.linkedin.com/in/darja-leonova-321927227/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<br/>
 
 I’m software engineer with focus on full-stuck development.
 
@@ -18,25 +19,19 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 - 👿 Demon Slayer: Kimetsu no Yaiba
 - 🤘 Fullmetal Alchemist
 - 🐰 Rascal Does Not Dream Of Bunny Girl Senpai
-
-
 <br/>
-<br/>
+
 
 <img align="right" alt="GIF" src="http://pa1.narvii.com/6410/3698e96a51807334ae816bf1bd195221a17711e2_00.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
+- 👾 &nbsp; I'm a big fan of Resident Evil world
+- 🔭 &nbsp; I’m currently working on improving myself
+- 🌱 &nbsp; I’m currently learning C#; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DarjaLeonova?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/darja-leonova-321927227/)
+- 📚 &nbsp; When I am free, I read books about psychology and romans
 <br>
 
 ### 🔨 Languages and Tools:
