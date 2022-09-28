@@ -4,7 +4,25 @@
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I’m software engineer with focus on full-stuck development.
+
+Why I started programming? Well.. 😄
+
+Hew years ago in woods, I found my best friend and my motivation for my entire life - Stormy 🐾
+Together we are learning new skills and going threw all dificulties. 🥰
+For example.. she's learning how to spin and I'm learning how to be better in coding 😁
+
+But there is one thing which makes me happy and keeps me positive
+I really love.. 
+Watch anime and especially draw it, so if you struggle about what to watch tonighy 
+
+### 🧐 I Suggest:
+
+- 👿 Demon Slayer: Kimetsu no Yaiba
+- 🤘 Fullmetal Alchemist
+- 🐰 Rascal Does Not Dream Of Bunny Girl Senpai
+
+
 <br/>
 <br/>
 
