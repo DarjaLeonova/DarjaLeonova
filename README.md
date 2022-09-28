@@ -49,6 +49,7 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 ![Stats Overview](https://raw.githubusercontent.com/DarjaLeonova/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/DarjaLeonova/github-stats-transparent/output/generated/languages.svg)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarjaLeonova)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarjaLeonova)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br>
