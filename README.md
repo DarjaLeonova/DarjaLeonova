@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Daria Leonova!
-<a href='https://www.linkedin.com/in/darja-leonova/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/darja-leonova/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/DarjaLeonova/DarjaLeonova/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 
-I’m software engineer with focus on full-stuck development.
+I’m software engineer with focus on full-stack development.
 
 I'm coding about a year, I started with little bit of everything. 
 After my little journey around programming languages I decided to learn more about C#. <b> Below you can check more about my skills <b/> 👇
@@ -61,7 +61,7 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/DarjaLeonova/github-stats-transparent'>
 
 ![Stats Overview](https://github.com/DarjaLeonova/github-stats-transparent/blob/output/generated/overview.svg)
 ![Most Used Languages](https://github.com/DarjaLeonova/github-stats-transparent/blob/output/generated/languages.svg)
