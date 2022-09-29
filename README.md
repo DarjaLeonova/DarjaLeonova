@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Daria Leonova!
-<a href='https://www.linkedin.com/in/darja-leonova-321927227/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/darja-leonova/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 
 I’m software engineer with focus on full-stuck development.
@@ -45,7 +45,7 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 - 🔭 &nbsp; I’m currently working on improving myself
 - 🌱 &nbsp; I’m currently learning C#
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DarjaLeonova?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/darja-leonova-321927227/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/darja-leonova/)
 - 📚 &nbsp; When I am free, I read books about psychology and romans
 <br>
 
