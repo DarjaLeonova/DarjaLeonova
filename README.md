@@ -4,8 +4,8 @@
 
 I’m software engineer with focus on full-stack development.
 
-I'm coding about a year, I started with little bit of everything. 
-After my little journey around programming languages I decided to learn more about C#. <b> Below you can check more about my skills <b/> 👇
+I'm coding for about a year, I started with a little bit of everything. 
+After my short journey around programming languages, I decided to learn more about C# <b> Below you can check more about my skills <b/> 👇
 
 Why I started programming? Well.. 😄
 
