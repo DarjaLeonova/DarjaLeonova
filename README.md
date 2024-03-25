@@ -32,7 +32,7 @@ Watch anime and especially draw it, so if you struggle about what to watch tonig
 
 ### 💪 More About My Skills:
 
-- 👋 &nbsp; Back-end development: C#, .NET Framework, ASP .NET, REST 
+- 👋 &nbsp; Back-end development: Golang, C#, .NET Framework, ASP .NET, REST 
 - 🤚 &nbsp; Front-end development: JavaScript, HTML5, CSS, ReactJs, Angular
 - 🖖 &nbsp; Test Tools: MSTest, Postman 
 - 🤙 &nbsp; Database tools: MySQL, SQLite
